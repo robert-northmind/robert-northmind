@@ -1,6 +1,8 @@
 👋 Hi, I’m Robert
 
+<!---
 <img src="https://robert.northmind.io/img/uploads/rs-photo-v6.jpeg" width="200"/>
+--->
 
 Software Engineer from Sweden specializing in mobile development.  
 Experienced with all stages of the development cycle for dynamic app projects.  
