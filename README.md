@@ -1,14 +1,15 @@
 👋 Hi, I’m Robert
 
 <!---
-<img src="https://robert.northmind.io/img/uploads/rs-photo-v6.jpeg" width="200"/>
+<img src="https://robert.northmind.io/img/uploads/rs-photo-v7.jpeg" width="200"/>
 --->
 
-Hello, I'm Robert. Senior Software Engineer from Sweden.  
-Experienced with all stages of the development cycle for dynamic app projects  
-including architecture, planning & estimation, API/framework design, code reviews etc.  
-Well-versed in numerous programming languages including Swift, TypeScript, Dart and Obj-C.  
-Experienced in project management and customer relations. Fluent in Swedish, English and German.
+Hello, I'm Robert. Senior Software Engineer from Sweden.
+Experienced with all stages of the development cycle for agile app projects
+including architecture, planning & estimation, API/framework design, code reviews etc.
+Well-versed in numerous programming languages including Swift, TypeScript, Dart and
+Obj-C. Experienced in project management and customer relations. Fluent in Swedish,
+English and German.
 
 For more info please check out my [portfolio](https://robert.northmind.io)
 
