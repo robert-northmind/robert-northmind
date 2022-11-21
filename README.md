@@ -1,10 +1,4 @@
-👋 Hi, I’m Robert
-
-<!---
-<img src="https://robert.northmind.io/img/uploads/rs-photo-v7.jpeg" width="200"/>
---->
-
-Hello, I'm Robert. Senior Software Engineer from Sweden.
+👋 Hi, I’m Robert, Senior Software Engineer from Sweden.  
 Experienced with all stages of the development cycle for agile app projects
 including architecture, planning & estimation, API/framework design, code reviews etc.
 Well-versed in numerous programming languages including Swift, TypeScript, Dart and
